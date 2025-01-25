@@ -37,7 +37,9 @@ o Visualize the regression results and the best-fit line for both temperature an
 ![linear model](https://github.com/user-attachments/assets/871e7010-16b3-4996-bd22-a3840549813b)
 
 8. Trend Analysis (optional)
+9. 
 o Plot a time series graph to show how plant growth changes over time with respect to temperature and light intensity.
-![growht over time](https://github.com/user-attachments/assets/2fa961b1-9223-4580-9a32-51c392f3e9b5)
+
+![download](https://github.com/user-attachments/assets/b7408011-a10c-4bd5-a0c0-671ae97a4c83)
 
 o Identify any seasonal patterns or trends in the data.
